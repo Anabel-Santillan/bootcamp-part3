@@ -1,4 +1,9 @@
 ###
+<br />
+<p align="center">
+  <a href="https://github.com/Anabel-Santillan/bootcamp-part3">
+    <img height="500" width="auto" src="https://i.imgur.com/zQRWSaB.png" alt="Logo">
+  </a>
 
   <h1 align="center">Inventory App Python</h1>
 
@@ -89,6 +94,3 @@ The next step of the development of this project would be implementing a respons
 ## Thank you!
 
 Thank you for taking the time to check out my project! Be sure to see my profile's README for contact info!
-
-
-
