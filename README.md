@@ -1,14 +1,14 @@
 ###
 <br />
 <p align="center">
-  <a href="https://github.com/Anabel-Santillan/bootcamp-part3">
+  <a href="https://github.com/Anabel-Santillan">
     <img height="500" width="auto" src="https://i.imgur.com/zQRWSaB.png" alt="Logo">
   </a>
 
   <h1 align="center">Inventory App Python</h1>
 
   <p align="center">
-   A back end created with Python, SQL Alchemy, Flask, and, SQL Marshmallow.
+   A back end created with Python, SQL Alchemy, Flask, and SQL Marshmallow.
     <br />
     <br />
     <a href="https://youtu.be/Xu-YHfsFP6s">👀 View Demo</a>
